@@ -5,3 +5,6 @@
 
 ## tests
 * First, add a triangle test
+
+## testing automation
+* Add actions in [github](https://github.com/memory118/vulkan_test_suite/actions/new) to do build and regression test
